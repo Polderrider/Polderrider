@@ -9,14 +9,14 @@ I maintain a diverse set of interests in my coding projects - these days i focus
 i build projects in a few different ways — here's how my repos are organized:
 
 ---
-
-### Repo name: me
+## Repos
+### /me
 projects i code myself, start to finish.
 
-### Repo name: a.i. + me
+### /me + a.i.
 i build, ai assists with roadblocks.
 
-### Repo name: promptcoding
+### /promptcoding
 i prompt. ai does all the code.
 
 ---
