@@ -10,13 +10,13 @@ i build projects in a few different ways — here's how my repos are organized:
 
 ---
 
-### 🛠️ me
+### Repo name: me
 projects i code myself, start to finish.
 
-### 🤝 a.i. + me
+### Repo name: a.i. + me
 i build, ai assists with roadblocks.
 
-### 💬 promptcoding
+### Repo name: promptcoding
 i prompt. ai does all the code.
 
 ---
