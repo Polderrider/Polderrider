@@ -1,6 +1,6 @@
 I'm Dan, a computer scientist interested in analytics and all things Python & Data Science related!
 
-I’m a Web Developer with experience building booking websites, integrating 3rd party APIs, and ensuring strong visual design. 
+I’m a Web Developer with experience building booking websites for companies, integrating 3rd party APIs, and ensuring strong visual design. 
 
 I recently built a small saas tool for sports clubs to increase their membership's engagement with the club, take a look here<link>.
 
@@ -9,15 +9,13 @@ I maintain a diverse set of interests in my coding projects - these days i focus
 i build projects in a few different ways — here's how my repos are organized:
 
 ---
+
 ## Repos
-### /me
-projects i code myself, start to finish.
+### /me ~ projects i code myself, start to finish.
 
-### /me + a.i.
-i build, ai assists with roadblocks.
+### /me + a.i. ~ i build, ai assists with roadblocks.
 
-### /promptcoding
-i prompt. ai does all the code.
+### /promptcoding ~ i prompt. ai does all the code.
 
 ---
 
