@@ -6,6 +6,22 @@ I recently built a small saas tool for sports clubs to increase their membership
 
 I maintain a diverse set of interests in my coding projects - these days i focus on domains like Automotive, Education, and not-for-profit.
 
+i build projects in a few different ways — here's how my repos are organized:
+
+---
+
+### 🛠️ me
+projects i code myself, start to finish.
+
+### 🤝 a.i. + me
+i build, ai assists with roadblocks if i can't. 
+
+### 💬 promptcoding
+i only prompt. ai does all the code.
+
+---
+
+
 
 <!--
 **Polderrider/Polderrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
