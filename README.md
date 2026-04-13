@@ -14,10 +14,10 @@ i build projects in a few different ways — here's how my repos are organized:
 projects i code myself, start to finish.
 
 ### 🤝 a.i. + me
-i build, ai assists with roadblocks if i can't. 
+i build, ai assists with roadblocks.
 
 ### 💬 promptcoding
-i only prompt. ai does all the code.
+i prompt. ai does all the code.
 
 ---
 
