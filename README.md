@@ -11,9 +11,9 @@ i build projects in a few different ways — here's how my repos are organized:
 ---
 
 ## Repos
-### /me ~ projects i code myself, start to finish.
+### /solo-projects ~ i code myself, start to finish.
 
-### /me + a.i. ~ i build, ai assists with roadblocks.
+### /ai-plus-me ~ i build, ai assists with roadblocks.
 
 ### /promptcoding ~ i prompt. ai does all the code.
 
